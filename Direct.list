@@ -15,10 +15,6 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
-# IP段匹配
-IP-CIDR,120.198.71.173/32,no-resolve
-
-
 
 # 360
 DOMAIN-SUFFIX,360.com
