@@ -12,6 +12,11 @@ DOMAIN-SUFFIX,abs.twimg.com
 DOMAIN-SUFFIX,video.twimg.com
 DOMAIN-SUFFIX,ton.twimg.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,convertexperiments.com
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,ipinfo.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
