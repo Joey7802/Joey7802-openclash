@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,hongxingdl.co
 DOMAIN-SUFFIX,jdiptv.net
 DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,pbs.twimg.com
+DOMAIN-SUFFIX,abs.twimg.com
+DOMAIN-SUFFIX,video.twimg.com
+DOMAIN-SUFFIX,ton.twimg.com
+DOMAIN-SUFFIX,twitter.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
