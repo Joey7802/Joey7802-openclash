@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,iptvkk.com
 DOMAIN-SUFFIX,freepy.cc
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-KEYWORD,baidumap
+DOMAIN-KEYWORD,map.baidu
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
