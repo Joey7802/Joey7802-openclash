@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-KEYWORD,baidumap
 DOMAIN-KEYWORD,map.baidu
-DOMAIN-KEYWORD,tvapi.canghaitv.com
+DOMAIN-KEYWORD,canghaitv.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
