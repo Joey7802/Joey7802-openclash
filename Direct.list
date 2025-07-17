@@ -22,11 +22,14 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-KEYWORD,baidumap
 DOMAIN-KEYWORD,map.baidu
+DOMAIN-KEYWORD,tvapi.canghaitv.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
+# IP段匹配
+IP-CIDR,66.42.60.221/32,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
