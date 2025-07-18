@@ -29,7 +29,7 @@ DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
 # IP段匹配
-IP-CIDR,66.42.60.221/32,no-resolve
+
 
 # 360
 DOMAIN-SUFFIX,360.com
