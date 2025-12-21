@@ -7,6 +7,21 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,linkedin.com
 
+# Gemini 核心业务
+DOMAIN,gemini.google.com
+DOMAIN-KEYWORD,alkaliminer
+DOMAIN-KEYWORD,colab
+
+# Gemini App 关键验证 API (必须走美国)
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,notifications-pa.googleapis.com
+DOMAIN,location.googleapis.com
+DOMAIN,proximity-auth.googleapis.com
+
+# 谷歌通用 AI/生成式接口 (建议走美国)
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 
 
 
