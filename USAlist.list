@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,nighthawk-app.com
 DOMAIN-SUFFIX,amazonaws.com
 
+# Grok 核心业务
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,xai.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,ampproject
+
 
 # Gemini 核心业务
 DOMAIN,gemini.google.com
