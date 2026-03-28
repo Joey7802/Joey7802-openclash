@@ -20,8 +20,10 @@ DOMAIN-KEYWORD,ampproject
 
 # Gemini 核心业务
 DOMAIN,gemini.google.com
+DOMAIN,ai.google.com
 DOMAIN-KEYWORD,alkaliminer
 DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,location.googleapis.com
 
 # Gemini App 关键验证 API (必须走美国)
 DOMAIN,proactivebackend-pa.googleapis.com
@@ -33,7 +35,7 @@ DOMAIN,proximity-auth.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
-
+DOMAIN-SUFFIX,googleusercontent.com
 
 
 
