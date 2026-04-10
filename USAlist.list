@@ -19,8 +19,8 @@ DOMAIN-KEYWORD,ampproject
 
 
 # Gemini 核心业务
-DOMAIN,gemini.google.com
-DOMAIN,ai.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,ai.google.com
 DOMAIN-KEYWORD,alkaliminer
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,location.googleapis.com
