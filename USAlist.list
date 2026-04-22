@@ -34,6 +34,7 @@ DOMAIN,proximity-auth.googleapis.com
 
 # 谷歌通用 AI/生成式接口 (建议走美国)
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,speech.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,googleusercontent.com
