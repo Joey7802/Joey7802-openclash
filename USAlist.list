@@ -27,6 +27,7 @@ DOMAIN-KEYWORD,location.googleapis.com
 
 # Gemini App 关键验证 API (必须走美国)
 DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,notifications-pa.googleapis.com
 DOMAIN,location.googleapis.com
 DOMAIN,proximity-auth.googleapis.com
