@@ -16,7 +16,10 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,xai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,ampproject
-
+DOMAIN,xai.chronosphere.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,appsflyersdk.com
 
 # Gemini 核心业务
 DOMAIN-SUFFIX,gemini.google.com
