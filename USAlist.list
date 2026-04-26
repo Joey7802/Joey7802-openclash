@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,zillow.com
 DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,nighthawk-app.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-KEYWORD,nationalpublicdata
 
 # Grok 核心业务
 DOMAIN-SUFFIX,grok.com
